@@ -1,4 +1,4 @@
-# Mondoo Terraform Provider OPA Policies
+# devops-policies-mondoo
 
 [![OPA](https://img.shields.io/badge/OPA-v0.60+-blue?logo=openpolicyagent&logoColor=white)](https://www.openpolicyagent.org/)
 [![Mondoo](https://img.shields.io/badge/Mondoo-Provider-4A154B?logo=terraform&logoColor=white)](https://registry.terraform.io/providers/mondoohq/mondoo/latest)
